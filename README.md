@@ -10,7 +10,7 @@
 #Clone the Repository
 #Clone this repository to your local machine using the following command:
 
-git clone <repository_url>
+git clone https://github.com/sreekolla/Heart-Attack-Risk-Prediction.git
 
 #Install Dependencies
 #Navigate to the project directory and create a new conda environment using the provided environment.yml file:
